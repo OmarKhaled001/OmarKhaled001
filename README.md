@@ -15,7 +15,7 @@ My approach combines technical depth with business understanding—I don't just 
 ---
 
 # 📊 GitHub Stats:
-<div align="center
+<div align="center>
   
   ![](https://github-readme-stats.vercel.app/api?username=OmarKhaled001&theme=transparent&hide_border=true&include_all_commits=false&count_private=true)<br/>
   ![](https://nirzak-streak-stats.vercel.app/?user=OmarKhaled001&theme=transparent&hide_border=true)<br/>
