@@ -47,6 +47,16 @@ My approach combines technical depth with business understanding—I don't just 
 - Git & GitHub
 - Graphic Design Background
 
+### 🔧 DevOps & Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+- **Linux** - Server management and deployment
+- **CI/CD** - GitHub Actions, automated testing
+- **Docker** - Containerization and deployment
+- **Server Administration** - Nginx, Apache configuration
+
 ---
 
 ## ⭐ Experience Highlights
@@ -66,7 +76,9 @@ I focus on understanding the business context behind technical requirements. Thi
 **Currently expanding expertise in:**
 - Advanced Laravel patterns
 - Microservices architecture
-- Modern DevOps practices
+- CI/CD pipelines and automation
+- Docker containerization
+- Linux server optimization
 
 ---
 
@@ -76,6 +88,7 @@ I focus on understanding the business context behind technical requirements. Thi
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.omarkhaled01@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-khaled-890b14396/)
+[![Location](https://img.shields.io/badge/Location-Cairo,_Egypt-00897B?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
 </div>
 
