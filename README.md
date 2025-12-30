@@ -1,51 +1,88 @@
-# Hi, I'm Omar Khaled 👋
+# 👨‍💻 Omar Khaled
 
-🚀 **Full-Stack Web Developer | Laravel & Filament PHP Specialist**  
-Experienced in building scalable backend systems and powerful admin panels with real-world business logic.
+### Full-Stack Developer | Laravel & Filament PHP Specialist
 
----
-
-## 🧠 About Me
-Highly motivated Full-Stack Web Developer with strong experience in **Laravel** and **Filament PHP**.  
-Specialized in developing **ERP, POS, CRM, and API-based systems** with a focus on performance, clean architecture, and business needs.
-
-- 🌍 Based in Cairo, Egypt
-- 💼 Backend-focused with full-stack capabilities
-- 🎯 Strong understanding of real business workflows
-- 🎨 Background in graphic design
+Experienced full-stack developer focused on building scalable enterprise solutions with Laravel. I architect and deliver ERP systems, admin panels, and API-driven platforms that solve real business problems.
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 What I Do
 
-### Backend & Frameworks
-- PHP
-- Laravel
-- Filament PHP
-- Livewire
+I build robust backend systems and intuitive admin interfaces for complex business workflows. My work centers on Laravel and Filament PHP, where I've developed solutions across ERP, POS, CRM, and multi-tenant architectures.
 
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
+My approach combines technical depth with business understanding—I don't just write code, I solve problems. Whether it's optimizing database performance, designing clean APIs, or implementing complex business logic, I deliver systems that scale.
 
-### Database & Architecture
-- MySQL / SQL
+---
+
+## 🛠️ Technical Expertise
+
+### 💻 Core Stack
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat&logo=livewire&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+- **Laravel** & **Filament PHP** - Advanced admin panel development
+- **Livewire** - Dynamic interfaces without JavaScript complexity
+- **PHP** - OOP, SOLID principles, modern PHP practices
+- **MySQL** - Query optimization, indexing, database design
+- **RESTful APIs** - Design, documentation, and integration
+
+### 🏗️ Architecture & Patterns
 - MVC Architecture
-- OOP & SOLID Principles
 - Repository Pattern
+- Service-Oriented Architecture
+- Database Design & Normalization
+- Clean Code Principles
 
-### APIs & Tools
-- RESTful APIs
+### 🎨 Frontend & Tools
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+- HTML, CSS, JavaScript
+- Bootstrap & Tailwind CSS
 - Git & GitHub
+- Graphic Design Background
 
 ---
 
-## 📫 Contact
-- 📧 Email: dev.omarkhaled01@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/omar-khaled-890b14396/
+## ⭐ Experience Highlights
+
+- 📊 **ERP & POS Systems** - Developed complete systems handling real-world business operations
+- ⚙️ **Admin Panels** - Built scalable interfaces with Filament PHP for complex data management
+- 🔌 **API Development** - Designed RESTful APIs consumed by mobile and web applications
+- 💾 **Database Architecture** - Optimized schemas for performance and data integrity
+- 🏛️ **Clean Architecture** - Applied repository pattern and service layers for maintainable codebases
 
 ---
 
-✨ *Always learning, always building scalable systems.*
+## 💡 Professional Approach
+
+I focus on understanding the business context behind technical requirements. This means asking the right questions, anticipating edge cases, and building systems that adapt as businesses grow. My background in graphic design helps me bridge the gap between technical implementation and user experience.
+
+**Currently expanding expertise in:**
+- Advanced Laravel patterns
+- Microservices architecture
+- Modern DevOps practices
+
+---
+
+## 📫 Get in Touch
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.omarkhaled01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-khaled-890b14396/)
+
+</div>
+
+---
+
+<div align="center">
+  
+**Building systems that scale, writing code that lasts** ✨
+
+</div>
