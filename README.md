@@ -94,9 +94,6 @@ I focus on understanding the business context behind technical requirements. Thi
 
 ## 📫 Get in Touch
 
-
-## 📫 Get in Touch
-
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.omarkhaled01@gmail.com)
