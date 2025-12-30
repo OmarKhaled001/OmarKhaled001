@@ -13,7 +13,12 @@ I build robust backend systems and intuitive admin interfaces for complex busine
 My approach combines technical depth with business understanding—I don't just write code, I solve problems. Whether it's optimizing database performance, designing clean APIs, or implementing complex business logic, I deliver systems that scale.
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=OmarKhaled001&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=OmarKhaled001&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarKhaled001&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
 ## 🛠️ Technical Expertise
 
 ### 💻 Core Stack
